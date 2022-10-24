@@ -98,7 +98,7 @@
     #2980b9
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-  height: 20vh;
+  height: 10vh;
   margin-top: 30px;
 }
 .wer1 {
@@ -118,6 +118,18 @@
   }
   .aside.show {
     left: 0;
+  }
+  .wer{
+    height: 30vh;
+  }
+  .dgma{
+    height: 7vh;
+  }
+  .cgma{
+    height: 100vh;
+  }
+  .bgma{
+    height: 100vh;
   }
 }
 @media screen and (max-width: 450px) {
@@ -163,6 +175,6 @@
     height: 150vh;
   }
   .dgma{
-    height: 11vh;
+    height: 8vh;
   }
 }
